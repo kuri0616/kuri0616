@@ -5,7 +5,8 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 I'm a backend engineer.
+- 🧑‍💻 I'm aspiring to be a backend engineer.
+- 💼 Currently, I develop enterprise systems using VB.NET.
 - 📫 How to reach me: [Twitter - @kuri0615_w](https://twitter.com/kuri0615_w)
 - 📘 Check out my articles and insights on [Qiita](https://qiita.com/rgj0830)
 <br>
